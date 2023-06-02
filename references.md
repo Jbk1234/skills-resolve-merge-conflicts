@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+Trying to create my own conflict here in Step 3
+
